@@ -2,6 +2,7 @@ body {
   padding: 0;
   margin: 0;
   background: linear-gradient(to right, #111f40, #284894);
+  overflow: hidden;
 }
 
 .calculadora-grilla {
